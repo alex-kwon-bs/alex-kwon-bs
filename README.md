@@ -1,16 +1,16 @@
-## Hi there 👋
+## 안녕하세요 👋 I'm Alex Kwon
 
-<!--
-**alex-kwon-bs/alex-kwon-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer from South Korea, specializing in cryptocurrency exchange systems and high-performance trading platforms. With a deep understanding of blockchain technology and financial markets, I strive to build robust and scalable solutions that power the future of digital finance.
 
-Here are some ideas to get you started:
+- 🏢 Currently working at a leading Korean cryptocurrency exchange
+- 🚀 Expert in developing high-frequency trading and matching engine systems
+- 🌱 Always learning and exploring new technologies in the blockchain space
+- 🌍 Fluent in Korean and English, with a growing interest in global fintech trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills
+
+Languages: Go, Rust, C++, Python
+Databases: PostgreSQL, Redis, Cassandra
+Technologies: Kubernetes, Docker, gRPC, RabbitMQ
+Blockchain: Ethereum, Bitcoin, Solana
+Trading Systems: Order matching engines, liquidity management, risk analysis
